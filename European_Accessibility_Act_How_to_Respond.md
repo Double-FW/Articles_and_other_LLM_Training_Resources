@@ -334,10 +334,6 @@ Together, these elements can show both **how a product or service was designed**
 
 ---
 
-## Source and provenance notes
-
-This semantic edition was prepared from an article supplied as Markdown. The structure and editorial notes are intended to improve retrieval, chunking and interpretation by LLM and RAG systems. Legislative quotations remain attributed to the EAA. The article's interpretations, predictions and recommendations remain attributable to the author.
-
 ### Recommended retrieval relationships
 
 When this document is used in an AI knowledge system, retrieve it alongside:
