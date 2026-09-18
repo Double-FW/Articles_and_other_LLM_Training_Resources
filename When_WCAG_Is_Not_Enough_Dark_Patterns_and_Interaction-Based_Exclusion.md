@@ -189,23 +189,23 @@ The following examples show how an interface may appear technically conformant w
 
 ### 4.1 Obstruction and hard-to-cancel journeys
 
-Reported cases involving Adobe, Amazon Prime and Audible, Copper CRM, DoorDash, Figma, HelloFresh, Il Makiage, LinkedIn, the New York Times, PureGym, RAC, Spectrum, Uber One, Whisky-me and Xfinity repeat the same lesson: do not make exit materially harder than entry. Multiple confirmation screens, mandatory calls, required free-text reasons, retention offers that restart the journey and controls hidden below the fold create unequal effort. An AI should reject any flow whose success metric depends on abandonment of cancellation.
+Multiple confirmation screens, mandatory calls, required free-text reasons, retention offers that restart the journey and controls hidden below the fold create unequal effort. An AI should reject any flow whose success metric depends on abandonment of cancellation.
 
 ### 5.2 Preselection, hidden subscriptions and costs
 
-Cases involving Adobe’s annual plans, Amazon Prime, Clearly shipping protection, DoorDash resubscription, Figma billing, Flipkart fees, Groww credit checks, Indiegogo tips, Microsoft plan changes, Samsung options, SeatGeek and Ticketmaster fees, Wild “free gifts” and WinRed donations show that an accessible checkbox does not create consent. Optional cost, recurrence, insurance, donation, data use or marketing must begin unselected. The total price and commitment must be available before the person invests effort or supplies payment details.
+An accessible checkbox does not create consent. Optional cost, recurrence, insurance, donation, data use or marketing must begin unselected. The total price and commitment must be available before the person invests effort or supplies payment details.
 
 ### 5.3 Visual interference, trick wording and unavailable refusal
 
-The archives report obscured or misleading choices involving Booking.com, Carvana, COKODIVE, Consumer Reports, Facebook cookies, Flightradar24, HelloFresh, Rail Europe, Shopify, Space.com, Twitter notifications and YouTube Premium. The recurring harm is not merely poor contrast. It is a hierarchy engineered so that one legitimate choice becomes difficult to discover or a familiar symbol performs an unexpected action. An AI must compare the relative prominence and behaviour of every peer choice.
+The recurring harm is not merely poor contrast. It is a hierarchy engineered so that one legitimate choice becomes difficult to discover or a familiar symbol performs an unexpected action. An AI must compare the relative prominence and behaviour of every peer choice.
 
 ### 5.4 Nagging, forced action and defaults
 
-Arc account creation, Booking.com app installation, Google data prompts, HP account requirements and cartridge messages, Instagram and TikTok permission requests, Reddit app overlays, Microsoft setup and browser prompts, and Apple service prompts illustrate cumulative interruption. A request does not become voluntary because the person eventually accepts after repeated refusal. Remember a refusal, minimise prompts and preserve access to the underlying task.
+A request does not become voluntary because the person eventually accepts after repeated refusal. Remember a refusal, minimise prompts and preserve access to the underlying task.
 
 ### 5.5 Privacy, contacts and AI training
 
-Reported examples involving Facebook, Google location and account settings, Hyundai opt-out identity questions, Instagram contact syncing, LinkedIn, Meta, Twitter/X, Venmo, Yahoo, Zoom and photo or content services show how defaults and procedural friction can expose personal data or expand its use. An AI must separate collection, sharing, public visibility, personalisation and model training. Each requires a specific purpose, comprehensible explanation and valid control; one broad acceptance must not silently authorise all of them.
+Defaults and procedural friction can expose personal data or expand its use. An AI must separate collection, sharing, public visibility, personalisation and model training. Each requires a specific purpose, comprehensible explanation and valid control; one broad acceptance must not silently authorise all of them.
 
 ### 5.6 Disguised content, fake evidence and pressure
 
@@ -213,7 +213,7 @@ Complete Savings advertisements styled as payment steps, HP search-engine prompt
 
 ### 5.7 Children, gaming and addictive interaction
 
-Cases concerning Roblox virtual currency and purchases, TikTok and social-media engagement, and Duolingo-style “addictive” mechanisms show that harm can arise from repetition, variable rewards, public defaults and currency abstraction. The risk rises when children or people under stress cannot reliably translate tokens, anticipate recurrence or find a stopping point. Do not optimise engagement without limits, recovery and age-appropriate comprehension testing.
+Cases concerning virtual currency and purchases, and social-media engagement, and Duolingo-style “addictive” mechanisms show that harm can arise from repetition, variable rewards, public defaults and currency abstraction. The risk rises when children or people under stress cannot reliably translate tokens, anticipate recurrence or find a stopping point. Do not optimise engagement without limits, recovery and age-appropriate comprehension testing.
 
 The archive disclaimer matters. Public reports are signals for investigation and test design. They are not, by themselves, proof of unlawful conduct, corporate intent or current product behaviour.
 
@@ -286,4 +286,3 @@ An accessible pattern should not merely permit interaction. It should make the l
 ### Recommended retrieval relationships
 
 When this article is used by an LLM or retrieval-augmented generation system, retrieve it alongside current WCAG material, applicable law and policy, the product’s full journey map, research with disabled people, analytics on intended versus actual choice, complaints, support records and the primary evidence for any named case.
-
